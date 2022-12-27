@@ -9,7 +9,7 @@ const attributesMap = {
   "android:strokeWidth": "stroke-width",
   "android:strokeColor": "stroke",
   "android:fillType": "fill-rule",
-  "android:fillAlpha": "opacity"
+  "android:fillAlpha": "fill-opacity"
 };
 
 const attributeTransforms = {
